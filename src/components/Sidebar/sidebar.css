@@ -1,0 +1,70 @@
+.btn-connect {
+  background: linear-gradient(90deg, rgba(131, 58, 180, 1) 0%, rgba(253, 29, 29, 1) 50%, rgba(252, 176, 69, 1) 100%);
+}
+.btn-money {
+  background: linear-gradient(0deg, rgba(83, 195, 34, 1) 0%, rgba(237, 213, 161, 1) 100%);
+}
+.sidebar {
+  position: absolute;
+  top: 0px;
+}
+
+.navbar-bg-2 {
+  background-color: #20252a !important;
+  color: white;
+  padding: 17px !important;
+  font-size: 12px;
+}
+.sidebar {
+  font-size: 70% !important;
+}
+.navbar-bg-2 span {
+  display: block;
+}
+.nav-label {
+  font-size: 11px;
+  color: white;
+  margin-left: 10px;
+}
+.user-image {
+  position: fixed;
+  width: 100px;
+  display: block;
+  margin-left: 70px;
+  margin-top: 10px;
+}
+.menuitem:hover {
+  background-color: rgb(38, 195, 70);
+}
+i {
+  z-index: 99;
+}
+.pro-sidebar .pro-menu .pro-menu-item > .pro-inner-item {
+  display: block;
+}
+.extend {
+  border-bottom-left-radius: 10px;
+  border-top-left-radius: 10px;
+  cursor: pointer;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  font-size: 130%;
+  padding-left: 10px;
+  padding-right: 25px;
+  background-color: black;
+  margin-left: 25px;
+  color: white;
+}
+.extend-1 {
+  border-bottom-left-radius: 10px;
+  border-top-left-radius: 10px;
+  cursor: pointer;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  font-size: 130%;
+  padding-left: 10px;
+  padding-right: 25px;
+  background-color: black;
+  margin-left: 185px;
+  color: white;
+}

@@ -1,0 +1,160 @@
+/**
+ * @license
+ *
+ * Font Family: Chillax
+ * Designed by: Noopur Choksi
+ * URL: https://www.fontshare.com/fonts/Chillax
+ * © 2022 Indian Type Foundry
+ *
+ * Font Styles:
+ * Chillax Variable(Variable font)
+ * Chillax Variable Italic(Variable font)
+ * Chillax Extralight
+ * Chillax Extralight Italic
+ * Chillax Light
+ * Chillax Light Italic
+ * Chillax Regular
+ * Chillax Italic
+ * Chillax Medium
+ * Chillax Medium Italic
+ * Chillax Bold
+ * Chillax Bold Italic
+ *
+*/
+
+/**
+* This is a variable font
+* You can controll variable axes as shown below:
+* font-variation-settings: 'wght' 700.0 'wght' 400.0;
+*
+* available axes:
+
+* 'wght' (range from 200.0 to 700.0)
+
+* 'wght' (range from 200.0 to 700.0)
+
+*/
+
+@font-face {
+  font-family: 'Chillax-Variable';
+  src: url('../fonts/Chillax-Variable.woff2') format('woff2'), url('../fonts/Chillax-Variable.woff') format('woff'),
+    url('../fonts/Chillax-Variable.ttf') format('truetype');
+  font-weight: 200 700;
+  font-display: swap;
+  font-style: normal;
+}
+
+/**
+* This is a variable font
+* You can controll variable axes as shown below:
+* font-variation-settings: 'wght' 700.0 'wght' 400.0;
+*
+* available axes:
+
+* 'wght' (range from 200.0 to 700.0)
+
+* 'wght' (range from 200.0 to 700.0)
+
+*/
+
+@font-face {
+  font-family: 'Chillax-VariableItalic';
+  src: url('../fonts/Chillax-VariableItalic.woff2') format('woff2'),
+    url('../fonts/Chillax-VariableItalic.woff') format('woff'),
+    url('../fonts/Chillax-VariableItalic.ttf') format('truetype');
+  font-weight: 200 700;
+  font-display: swap;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Chillax-Extralight';
+  src: url('../fonts/Chillax-Extralight.woff2') format('woff2'), url('../fonts/Chillax-Extralight.woff') format('woff'),
+    url('../fonts/Chillax-Extralight.ttf') format('truetype');
+  font-weight: 200;
+  font-display: swap;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Chillax-ExtralightItalic';
+  src: url('../fonts/Chillax-ExtralightItalic.woff2') format('woff2'),
+    url('../fonts/Chillax-ExtralightItalic.woff') format('woff'),
+    url('../fonts/Chillax-ExtralightItalic.ttf') format('truetype');
+  font-weight: 200;
+  font-display: swap;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Chillax-Light';
+  src: url('../fonts/Chillax-Light.woff2') format('woff2'), url('../fonts/Chillax-Light.woff') format('woff'),
+    url('../fonts/Chillax-Light.ttf') format('truetype');
+  font-weight: 300;
+  font-display: swap;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Chillax-LightItalic';
+  src: url('../fonts/Chillax-LightItalic.woff2') format('woff2'),
+    url('../fonts/Chillax-LightItalic.woff') format('woff'), url('../fonts/Chillax-LightItalic.ttf') format('truetype');
+  font-weight: 300;
+  font-display: swap;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Chillax-Regular';
+  src: url('../fonts/Chillax-Regular.woff2') format('woff2'), url('../fonts/Chillax-Regular.woff') format('woff'),
+    url('../fonts/Chillax-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-display: swap;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Chillax-Italic';
+  src: url('../fonts/Chillax-Italic.woff2') format('woff2'), url('../fonts/Chillax-Italic.woff') format('woff'),
+    url('../fonts/Chillax-Italic.ttf') format('truetype');
+  font-weight: 400;
+  font-display: swap;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Chillax-Medium';
+  src: url('../fonts/Chillax-Medium.woff2') format('woff2'), url('../fonts/Chillax-Medium.woff') format('woff'),
+    url('../fonts/Chillax-Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-display: swap;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Chillax-MediumItalic';
+  src: url('../fonts/Chillax-MediumItalic.woff2') format('woff2'),
+    url('../fonts/Chillax-MediumItalic.woff') format('woff'),
+    url('../fonts/Chillax-MediumItalic.ttf') format('truetype');
+  font-weight: 500;
+  font-display: swap;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Chillax-Bold';
+  src: url('../fonts/Chillax-Bold.woff2') format('woff2'), url('../fonts/Chillax-Bold.woff') format('woff'),
+    url('../fonts/Chillax-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-display: swap;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Chillax-BoldItalic';
+  src: url('../fonts/Chillax-BoldItalic.woff2') format('woff2'), url('../fonts/Chillax-BoldItalic.woff') format('woff'),
+    url('../fonts/Chillax-BoldItalic.ttf') format('truetype');
+  font-weight: 700;
+  font-display: swap;
+  font-style: italic;
+}
